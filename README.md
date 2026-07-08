@@ -26,9 +26,10 @@ npm install
 ▶️ Chạy ứng dụng
 npm start
 
-👉 Sau đó mở trình duyệt và truy cập:
 
 http://localhost:3000
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/82f1b3c1-c81e-4282-a040-99d17d51c0ad" />
+
 📸 Demo
 
 Khi truy cập, bạn sẽ thấy:
