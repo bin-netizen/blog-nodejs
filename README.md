@@ -50,8 +50,4 @@ Không push file nhạy cảm (.env) lên GitHub
 📝 CRUD bài viết (Create, Read, Update, Delete)
 🔐 Xác thực người dùng (Login/Register)
 💾 Kết nối database (MongoDB)
-👨‍💻 Tác giả
 Trần Gia Bảo
-⭐ Ghi chú
-
-Nếu thấy project hữu ích, hãy ⭐ repo để ủng hộ nhé!
