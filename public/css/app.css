@@ -8,9 +8,38 @@
   #CUSTOM PROPERTY
 \*-----------------------------------*/
 body {
-  background: #f8f9fa;
+    font-family: 'Inter', sans-serif;
+    background-color: #f5f6fa;
 }
 
+.card {
+    border-radius: 12px;
+}
+/* Vòng tròn nền tím */
+.hero-bg {
+  width: 320px;
+  height: 320px;
+  background: linear-gradient(135deg, #6a5af9, #8e6cff);
+  border-radius: 50%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* Ảnh */
+.hero-img {
+  width: 260px;
+  height: 260px;
+  object-fit: cover;
+  border-radius: 50%;
+  position: relative;
+  z-index: 2;
+
+  /* VIỀN TÍM */
+  border: 10px solid #fff;
+  box-shadow: 0 0 0 8px rgba(106, 90, 249, 0.3);
+}
 .light-theme {
   /**
    * light theme colors 

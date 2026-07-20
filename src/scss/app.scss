@@ -20,7 +20,11 @@ body {
   background-color: red !important;
 }
 .light-theme {
-
+body.dark {
+  background-color: #121212;
+  color: #ffffff;
+}
+$primary: #6c63ff;
     /**
      * light theme colors 
      */
@@ -35,8 +39,7 @@ body {
     --foreground-secondary: hsl(216, 15%, 52%);
     --foreground-tertiary: hsl(214, 20%, 69%);
 
-    --accent: hsl(229, 76%, 66%);
-
+    --accent: #00bcd4; // xanh
 }
 
 .dark-theme {
